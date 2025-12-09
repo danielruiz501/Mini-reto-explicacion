@@ -1,4 +1,4 @@
-# 07-mini-reto-explicacion.md
+# Mini reto explicaciòn
 
 # Optimización de consulta
 
